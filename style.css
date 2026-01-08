@@ -96,7 +96,7 @@ body {
 /* HOME BANNER */
 .home-banner {
   height: 80vh;
-  background: url("image/banner.jpg") center/cover no-repeat;
+  background: url("images/banner.jpg") center/cover no-repeat;
 }
 .home-banner {
     /* Change 90vh to 100vh or calc to fill the screen perfectly */
@@ -962,4 +962,5 @@ body {
 .footer-bottom p {
     font-size: 0.8rem;
     color: #a5d6a7;
+
 }
